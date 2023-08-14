@@ -1,0 +1,140 @@
+*
+{
+    padding: 0px;margin: 0px; box-sizing: border-box;
+}
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.459);
+}
+.logo
+{
+    width: 80px;
+    border-radius: 35%;
+}
+
+.manu1
+{
+    border-bottom: 2px solid #39b54a;
+}
+.navbar-nav li {
+    padding: 0 25px;
+    font-size: 20px;
+    font-family: maths;
+   
+}
+ul li a:hover
+{
+border-bottom: 3px solid #39b54a;
+}
+ul li a{
+    color: white !important;
+}
+
+.navbar-nav li a {
+
+    font-weight: 400;
+}
+
+.banner1
+{
+    background-image: url(../image/leave\ banner.jpg);
+    /* height: 830px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+}
+.banner1text{
+    /* font-family: "montserrat-medium", sans-serif; */
+    font-family: cursive;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+}
+.banner1text2
+{
+   color:  #39b54a;;
+}
+.blogtext1
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    color:  #39b54a;
+
+}
+.blogtext2
+{
+text-align: center;
+font-family: "montserrat-medium", sans-serif;
+font-size: 55px;
+font-weight: 600;
+line-height: 1.255;
+}
+.banner2
+{
+    background-image:url(../image/banner3.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner2btn1
+{
+    width: 145px;
+    height: 45px;
+    font-size: 16px;
+    color: #10771e;
+    border-color: black;
+    border-bottom-left-radius: 27px;
+    font-family: "montserrat-medium", sans-serif;
+    border-top-right-radius: 27px;
+}
+.banner2img1
+{
+    height: 214px;
+}
+.footer1
+{
+    background-color: #111111;
+}
+.footerimg1
+{
+    width: 250px;
+    /* height: 360px; */
+    border-radius: 30%;
+}
+.footertext1
+{
+    color: #39b54a;
+}
+.footerpera1
+{
+    font-family: "montserrat-light", sans-serif;
+    font-size: 15px;
+    line-height: 2;
+    color: rgba(255, 255, 255, 0.3);
+}
+.input1
+{
+    background-color: black;
+    border: none;
+    color: rgba(255, 255, 255, 0.3);
+}
+.input2
+{
+    background-color: #39b54a;
+    border: none;
+    color: white;
+}
+.footertext2
+{
+    color: #39b54a;
+}
+.detail1
+{
+    text-decoration: none;
+    color: #10771e !important;
+
+}

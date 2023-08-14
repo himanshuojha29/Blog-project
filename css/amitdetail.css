@@ -1,0 +1,139 @@
+*
+{
+    padding: 0px;margin: 0px; box-sizing: border-box;
+}
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.795);
+}
+.logo
+{
+    width: 80px;
+    border-radius: 35%;
+}
+
+.manu1
+{
+    border-bottom: 2px solid #39b54a;
+}
+.navbar-nav li {
+    padding: 0 25px;
+    font-size: 20px;
+    font-family: maths;
+   
+}
+ul li a:hover
+{
+border-bottom: 3px solid #39b54a;
+}
+ul li a{
+    color: white !important;
+}
+
+.navbar-nav li a {
+
+    font-weight: 400;
+}
+
+.banner1
+{
+    background-image: url(../image/leave\ banner.jpg);
+    /* height: 830px; */
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+}
+.banner1text{
+    /* font-family: "montserrat-medium", sans-serif; */
+    font-family: cursive;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+}
+.banner1text2
+{
+   color:  #39b54a;;
+}
+
+
+.pa2 {
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.box {
+    display: flex;
+}
+
+.btn {
+    background-color:#10771e;
+    
+}
+
+.card {
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 0.25rem;
+    background-color: #f8f9fa !important;
+
+
+}
+.footer1
+{
+    background-color: #111111;
+}
+.footerimg1
+{
+    width: 250px;
+    /* height: 360px; */
+    border-radius: 30%;
+}
+.footertext1
+{
+    color: #39b54a;
+}
+.footerpera1
+{
+    font-family: "montserrat-light", sans-serif;
+    font-size: 15px;
+    line-height: 2;
+    color: rgba(255, 255, 255, 0.3);
+}
+.input1
+{
+    background-color: black;
+    border: none;
+    color: rgba(255, 255, 255, 0.3);
+}
+.input2
+{
+    background-color: #39b54a;
+    border: none;
+    color: white;
+}
+.footertext2
+{
+    color: #39b54a;
+}
+.nitinimg
+{
+    height: 214px;
+}
+
+.detail1
+{
+    text-decoration: none;
+    color: #10771e !important;
+
+}
+.detail1:hover
+{
+    
+    color: white !important;
+
+}
